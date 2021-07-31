@@ -1,0 +1,26 @@
+    CORINGA SOM
+  R. FERNANDINA
+ MARQUES Nº 252
+ BORDA DO CAMPO
+-----------------
+DATA: 20/06/2021
+Nº VENDA: 77
+-----------------
+    ATENDENTE
+ADMINISTRADOR
+-----------------
+PRODUTO: GPS
+QUANTIDADE: 1
+TOTAL: R$200,00
+
+PRODUTO: RÁDIO IOS
+QUANTIDADE: 2
+TOTAL: R$2400,00
+
+TOTAL:
+2600,00 R$
+-----------------
+DESCONTO:
+10,00 R$
+-----------------
+VALOR FINAL: 2590,00 R$
